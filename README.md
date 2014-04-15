@@ -8,7 +8,7 @@ http://www.youtube.com/user/GeekGurlDiaries
 
 ===============
 
-**Episode 27**  
+## Episode 27
 
 Making Pictures with [Python in PyGame](https://github.com/MissPhilbin/GeekGurlDiaries/blob/master/picture.py) and [Minecraft Pi](https://github.com/MissPhilbin/GeekGurlDiaries/blob/master/minecraft_draw_space_invader.py)
 
