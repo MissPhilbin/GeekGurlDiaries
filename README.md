@@ -19,6 +19,6 @@ Unless otherwise specified, everything in this repository is covered by the foll
 
 ![Creative Commons License](http://i.creativecommons.org/l/by-sa/4.0/88x31.png)
 
-***GeekGurlDiaries*** by the [MissPhilbin](http://raspberrypi.org) is licenced under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/).
+***GeekGurlDiaries*** by [MissPhilbin](http://github.com/MissPhilbin/GeekGurlDiaries) is licenced under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/).
 
 Based on a work at https://github.com/MissPhilbin/GeekGurlDiaries
