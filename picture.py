@@ -1,3 +1,9 @@
+""" Draws a space invader in Pygame
+by Carrie Anne Philbin & Alex Bradbury
+http://www.youtube.com/watch?v=b84EywkQ3HI&feature=youtu.be
+"""
+
+
 import pygame,  sys
 
 pygame.init()
