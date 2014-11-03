@@ -12,6 +12,11 @@ http://www.youtube.com/user/GeekGurlDiaries
 
 Making Pictures with [Python in PyGame](https://github.com/MissPhilbin/GeekGurlDiaries/blob/master/picture.py) and [Minecraft Pi](https://github.com/MissPhilbin/GeekGurlDiaries/blob/master/minecraft_draw_space_invader.py)
 
+**Episode 32**
+
+Make a digital garden with Pibrella [final code](https://github.com/MissPhilbin/GeekGurlDiaries/blob/master/spin.py)
+
+===============
 
 ## License
 
