@@ -1,4 +1,4 @@
-# Geek Gurl Diaries Episode 33: Xmas Special Make Snowlfakes with Turtle
+# Geek Gurl Diaries Episode 33: Xmas Special Make Snowflakes with Turtle
 # By Carrie Anne Philbin
 
 import turtle
