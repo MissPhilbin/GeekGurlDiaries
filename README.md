@@ -7,14 +7,21 @@ http://www.youtube.com/user/GeekGurlDiaries
 @GeekGurlDiaries
 
 ===============
+[**Episode 34**]()
 
-**Episode 27**  
+Make snowflakes with python turtle for Computer Science Week (8th - 14th December 2014) as an Hour of Code activity. [Final code from the episode](https://github.com/MissPhilbin/GeekGurlDiaries/blob/master/snowflake.py)
+
+
+[**Episode 32**](https://www.youtube.com/watch?v=4Fs7y7gZIag)
+
+Make a digital garden with Pibrella [final code](https://github.com/MissPhilbin/GeekGurlDiaries/blob/master/spin.py)
+
+
+[**Episode 27**](https://www.youtube.com/watch?v=b84EywkQ3HI)
 
 Making Pictures with [Python in PyGame](https://github.com/MissPhilbin/GeekGurlDiaries/blob/master/picture.py) and [Minecraft Pi](https://github.com/MissPhilbin/GeekGurlDiaries/blob/master/minecraft_draw_space_invader.py)
 
-**Episode 32**
 
-Make a digital garden with Pibrella [final code](https://github.com/MissPhilbin/GeekGurlDiaries/blob/master/spin.py)
 
 ===============
 
