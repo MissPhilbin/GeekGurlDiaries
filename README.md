@@ -7,7 +7,7 @@ http://www.youtube.com/user/GeekGurlDiaries
 @GeekGurlDiaries
 
 ===============
-[**Episode 34**]()
+[**Episode 34**](https://www.youtube.com/watch?v=DHmeX7YTHBY)
 
 Make snowflakes with python turtle for Computer Science Week (8th - 14th December 2014) as an Hour of Code activity. [Final code from the episode](https://github.com/MissPhilbin/GeekGurlDiaries/blob/master/snowflake.py)
 
