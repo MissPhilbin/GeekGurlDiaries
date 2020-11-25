@@ -67,6 +67,7 @@ while True:
   if sense.temp > 35: 
     sense.set_pixels(hot)
   elif sense.temp < 5:
+    #sense.clear()
     sense.set_pixels(cold)
   else:
     walking()
