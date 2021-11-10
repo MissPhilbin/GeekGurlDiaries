@@ -4,13 +4,17 @@ let xLeft = 270;
 let xRight = 328;
 let y = 250;
 
+let img;
+function preload() {
+  img = loadImage('https://cdn.worldvectorlogo.com/logos/raspberry-pi.svg');
+}
+
 function setup() {
   createCanvas(600, 600);
 }
 
 function draw() {
   background("#B0E0E6");
-
 
   //hair background
   fill("#e3c700");
@@ -30,7 +34,6 @@ function draw() {
   fill("#ead400");
   bezier(300, 160, 100, 180, 280, 300, 150, 400);
   //right hair
-  
   fill("#ead400");
   bezier(300, 160, 500, 180, 320, 300, 450, 400);
   noStroke();
@@ -39,8 +42,6 @@ function draw() {
   fill("#E4B1AB");
   quad(280, 310, 320, 310, 330, 370, 270, 370);
   
-
-
   
   //fringe
   noStroke()
@@ -61,11 +62,16 @@ function draw() {
   arc(300,400,40,20,0,PI);
   pop();
   
-  //Hoodie
+  //Hoodie background
+  //fill(255, 153, 202);
+  //quad(210, 350, 400, 350, 500, 500, 120, 500);
+  //bezier(400, 500, 60, 180, 280, 319, 150, 796);
+
+
   rectMode(CENTER)
   fill(255, 153, 202)
-  rect(300, 435, 205, 150, 30);
-  fill(255, 204, 229)
+  rect(300, 460, 160, 200, 80, 80, 0, 0);
+  //rect(300, 435, 200, 150, 50);
 
   // Eye balls
   noStroke();
@@ -81,8 +87,7 @@ function draw() {
   y = map(mouseY, 0, height, 240, 260, true);
   xLeft = map(mouseX, 0, width, 260, 280, true);
   xRight = map(mouseX, 0, width, 318, 340, true);
-
   
+  image(img, 275, 380, 50, 60);
 
-  
 }
