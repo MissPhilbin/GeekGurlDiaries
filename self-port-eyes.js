@@ -42,11 +42,6 @@ function draw() {
   fill("#E4B1AB");
   quad(280, 310, 320, 310, 330, 370, 270, 370);
   
-  
-  //fringe
-  noStroke()
-
-  
   //lips
   //top
   push();
@@ -88,6 +83,6 @@ function draw() {
   xLeft = map(mouseX, 0, width, 260, 280, true);
   xRight = map(mouseX, 0, width, 318, 340, true);
   
-  image(img, 275, 380, 50, 60);
+  image(img, 275, 395, 50, 60);
 
 }
